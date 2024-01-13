@@ -1,1 +1,3 @@
 github repository denemesi
+
+2.commit için deneme yazısı
